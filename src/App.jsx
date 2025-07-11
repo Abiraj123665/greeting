@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '100px' }}>
-        <h1 style={{ color: 'red', padding: '50px' }}>Greeting App</h1>
+        <h1 style={{ color: 'red', padding: '' }}>Greeting App new</h1>
       <h1 style={{ marginLeft: '100px' , marginRight: "100px"}}>{t('greeting')}</h1>
 
       <div style={{ marginTop: '20px' }}>
